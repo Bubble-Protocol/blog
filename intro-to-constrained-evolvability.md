@@ -1,7 +1,8 @@
 ---
 title: Unlocking the Future of NFTs with Constrained Evolvability
 description: Most NFTs today are static, their value and utility frozen in time. Enter the concept of constrained evolvability (CE) — a revolutionary idea set to transform NFTs from mere collectibles into dynamic, interactive assets.
-image: img/constrained-evolvability.webp
+image: img/constrained-evolvability.png
+image-width: full
 ---
 
 # Unlocking the Future of NFTs with Constrained Evolvability
