@@ -2,6 +2,7 @@
 title: Bridging the Divide - How Bubble Protocol is Closing the Gap Between Web2 and Web3
 description: In the rapidly evolving digital landscape, the convergence of Web2 and Web3 is reshaping the future of the internet. At Bubble Protocol, we’re at the forefront of this transformation, pioneering solutions that bridge the gap between these two paradigms.
 image: img/bridging-the-divide.png
+image-width: medium
 ---
 
 In the rapidly evolving digital landscape, the convergence of Web2 and Web3 is reshaping the future of the internet. At Bubble Protocol, we’re at the forefront of this transformation, pioneering solutions that bridge the gap between these two paradigms. Our innovative approach is revolutionizing how businesses, developers, and users interact with data in the digital age.
