@@ -1,5 +1,5 @@
 ---
-title: The True Cost of Data Breaches in 2024: Why Web3 Solutions Are the Only Way Forward
+title: The True Cost of Data Breaches in 2024 - Why Web3 Solutions Are the Only Way Forward
 description: In the digital era the risk of data breaches has never been higher. Yet, despite increased investment, many businesses still rely on outdated storage solutions, leaving them vulnerable to attack.
 image: img/true-cost-of-data-breaches.png
 image-width: medium
